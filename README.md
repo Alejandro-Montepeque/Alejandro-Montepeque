@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/alejandro-montepeque-24a61326a" target="blank"><img align="center"
+  <a href="https://linkedin.com/in/alejandro-montepeque" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=linkedin" alt="alejandro-montepeque" height="30" width="40" /></a>
 <!--   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
