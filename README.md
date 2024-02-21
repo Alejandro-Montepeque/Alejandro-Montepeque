@@ -93,6 +93,9 @@
   <!-- vite --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=vite" alt="python"
       width="40" height="40" /> </a> 
+    <!-- Svelte --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://skillicons.dev/icons?i=svelte" alt="svelte"
+      width="40" height="40" /> </a>     
 
 <br>
 
