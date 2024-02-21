@@ -95,7 +95,10 @@
       width="40" height="40" /> </a> 
     <!-- Svelte --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=svelte" alt="svelte"
-      width="40" height="40" /> </a>     
+      width="40" height="40" /> </a> 
+  <!-- Ts --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
+      src="https://skillicons.dev/icons?i=ts" alt="ts"
+      width="40" height="40" /> </a> 
 
 <br>
 
