@@ -1,123 +1,71 @@
 <h1 align="center">Hi 👋, I'm Alejandro Montepeque</h1>
-<h3 align="center">Student at software development engineer, ITCA FEPADE🌟.</h3>
 
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=alejandro-montepeque&label=Profile%20views&color=0e75b6&style=flat"
-    alt="alejandro-Montepeque" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="alejandro-montepeque" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **jonathanmontepeque@gmail.com**
-
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alejandro-montepeque" target="blank"><img align="center"
-      src="https://skillicons.dev/icons?i=linkedin" alt="alejandro-montepeque" height="30" width="40" /></a>
-<!--   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Vue+%C2%B7+TypeScript+%C2%B7+Node.js;AI+Agents+with+Google+ADK+%26+Gemini" alt="typing" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  3+ años construyendo aplicaciones web escalables y mantenibles.
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <!-- Android Studio --> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=androidstudio"
-      alt="android" width="40" height="40" /> </a> 
-   <!--Bootstrap  --> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap"
-      alt="bootstrap" width="40" height="40" /> </a> 
-  <!--c# --> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs"
-      alt="c" width="40" height="40" /> </a> 
-  <!-- Alpine js  --><a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=alpinejs"
-      alt="cplusplus" width="40" height="40" /> </a> 
-  <!-- CSS  --> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3"
-      width="40" height="40" /> </a> 
-  <!--html  --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=html"
-      alt="html5" width="40" height="40" /> </a> 
-  <!--Ilustrador  --><a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ai" alt="illustrator" width="40"
-      height="40" /> </a> 
-  <!-- Java --><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=java" alt="java" width="40"
-      height="40" /> </a>
-  <!--js  --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js"
-      alt="javascript" width="40" height="40" /> </a>
-  <!-- kotlin --><a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40" />
-  </a> 
-  <!-- Mysql --><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" /> </a>
-  <!-- node --><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=nodejs"
-      alt="nodejs" width="40" height="40" /> </a>
-  <!-- vue --><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40" /> </a>
-  <!--  jquery --><a href="https://jquery.com/" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery"
-      width="40" height="40" /> </a> 
-  <!--  laravel --><a href="https://laravel.com/" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel"
-      width="40" height="40" /> </a> 
-  <!--  php --><a href="https://www.php.net/" target="_blank"
-    rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="photoshop"
-      width="40" height="40" /> </a> 
-  <!-- python --><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=py" alt="python"
-      width="40" height="40" /> </a> 
-  <!-- vite --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=vite" alt="python"
-      width="40" height="40" /> </a> 
-    <!-- Svelte --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=svelte" alt="svelte"
-      width="40" height="40" /> </a> 
-  <!-- Ts --><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://skillicons.dev/icons?i=ts" alt="ts"
-      width="40" height="40" /> </a> 
+<p align="center">
+  <a href="https://portfolio-wlfndahrbq-uc.a.run.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/montepeque"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jonathanmontepeque@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=alejandro-montepeque&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
+</p>
 
-<br>
+---
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandro-montepeque&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="alejandro" 
-    bg_color=#808080/></p>
+### 👨‍💻 Sobre mí
 
-<br>
+- 🛠️  Desarrollador Full Stack en **Two-Shows Producciones**
+- 🎓  Estudiando **Ingeniería en Desarrollo de Software** en ITCA FEPADE
+- 🤖  Construyo agentes de IA en Python con Google ADK + Gemini
+- 🌍  Basado en San Salvador, El Salvador
+- 📫  Contacto: **jonathanmontepeque@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandro-montepeque&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="alejandro" /></p>
+---
 
-<br>
+### 🧩 Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="alejandro" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Frontend**
 
-[Alejandro-Montepeque](https://github.com/Alejandro-Montepequee)
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,ts,js,tailwind,html,css" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,cs,dotnet,java,python" />
+</p>
+
+**Databases · DevOps · Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,gcp,vercel,git,github,figma" />
+</p>
+
+---
+
+### 🚀 Proyectos destacados
+
+- 🌐 **[Portafolio personal](https://portfolio-wlfndahrbq-uc.a.run.app)** — React + TypeScript + Vite. Dockerizado y desplegado en Cloud Run con CI/CD via GitHub Actions y Workload Identity Federation.
+- 🤖 **AI Agent** — Agente conversacional con Google ADK + Gemini 3.0 *(próximamente)*
+- 💬 **Real-time app** — App colaborativa con Socket.io + Vue + MongoDB *(próximamente)*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alejandro-Montepeque&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=e5e7eb" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Montepeque&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e5e7eb" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejandro-Montepeque&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7" alt="streak" />
+</p>
