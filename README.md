@@ -62,7 +62,7 @@
 
 ### 🚀 Proyectos destacados
 
-- 🌐 **[Portafolio personal](https://portfolio-wlfndahrbq-uc.a.run.app)** — React + TypeScript + Vite. Dockerizado y desplegado en Cloud Run con CI/CD vía GitHub Actions y Workload Identity Federation.
+- 🌐 **[Portafolio personal](https://alejandromontepeque.dev/)** — React + TypeScript + Vite. Dockerizado y desplegado en Cloud Run con CI/CD vía GitHub Actions y Workload Identity Federation.
 - 🤖 **AI Agent** — Agente conversacional con Google ADK + Gemini *(en desarrollo)*
 - 💬 **Real-time app** — App colaborativa con Socket.io + Vue + MongoDB *(en desarrollo)*
 
